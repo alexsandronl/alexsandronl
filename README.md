@@ -17,7 +17,7 @@
 ## 🌎 Onde me encontrar  
 - 📸 **Instagram**: [@alexsandronl](https://instagram.com/alexsandronl)  
 - 💼 **LinkedIn**: [alexsandronuneslacerda](https://www.linkedin.com/in/alexsandronuneslacerda)  
-- 🌐 **Site/Blog**: [alexsandronuneslacerda.com.br](https://www.alexsandronuneslacerda.com.br)  
+- 🌐 **Site/Blog**: [alexsandronuneslacerda.com.br](https://www.alexsandronuneslacerda.com.br) (beta)
 
 ---
 
