@@ -10,7 +10,7 @@
 - 🔹 Certificações Microsoft: **MCT, MCPD, MCTS, MCP**  
 - 🔹 Certificações Google em Cloud e tecnologias emergentes  
 - 🔹 Atuação como **mentor e líder técnico**, ajudando times a crescerem com boas práticas, DDD e escalabilidade  
-- 🔹 Entusiasta de **IA, impressão 3D, drones DJI e novas tecnologias**  
+- 🔹 Especialista de **IA, impressão 3D, drones DJI e novas tecnologias**  
 
 ---
 
